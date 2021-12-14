@@ -1,0 +1,19 @@
+*.*.swp
+__pycache__/
+*.py[cod]
+
+# ipython checkpoinits
+.ipynb_checkpoints/
+
+# checkpoints
+ckpts/
+*.ckpt*
+*.pbtxt
+
+# frozen graph
+frozen_graph/
+
+# dataset
+*.wav
+data/*
+speech_dataset/
